@@ -21,3 +21,9 @@ yarn dev
  #  生成桌面端软件
 yarn make
 ## 3. 利用nginx部署
+下载后安装，将上述编译完成后的dist内的文件，全部复制到nginx的 html 文件下.
+之后打开 http://localhost 即可
+# 开启nginx服务
+start nginx
+# 关闭nginx服务
+taskkill /f /t /im nginx.exe
