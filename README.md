@@ -9,9 +9,9 @@
 
 
 ## 必要条件：yarn
-1. 下载源码：
- git clone https://github.com/silenty4ng/k5web.git
-# 2. 编译项目
+## 下载源码：
+git clone https://github.com/silenty4ng/k5web.git
+
 # 安装依赖
 yarn
 # 开始编译
@@ -20,3 +20,4 @@ yarn build
 yarn dev
  #  生成桌面端软件
 yarn make
+3. 利用nginx部署
