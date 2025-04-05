@@ -4,7 +4,8 @@
 - 感谢所有 HAM 。
 
 ## 简介
-基于https://github.com/silenty4ng/k5web原项目本地部署教程
+基于https://github.com/silenty4ng/k5web 
+原项目本地部署教程
 
 
 ## 必要条件：yarn
